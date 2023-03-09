@@ -7,3 +7,7 @@ test_2():
     
 test_3():
     assert 3-2 == 1
+
+
+test_4():
+    assert 3-2 ==
