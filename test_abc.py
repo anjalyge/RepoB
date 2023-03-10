@@ -10,4 +10,4 @@ test_3():
 
 
 test_4():
-    assert 3-2 ==
+    assert 3-2 == 1
